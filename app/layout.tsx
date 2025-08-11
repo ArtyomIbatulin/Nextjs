@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Bookstore | Главная",
+  title: "Next Js | Главная",
 };
 
 export default function RootLayout({

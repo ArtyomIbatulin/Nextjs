@@ -1,10 +1,9 @@
-import { Button } from "@/components/ui/button";
+import { Header } from "@/components/shared";
 
 export default function Home() {
   return (
     <div>
-      Next JS
-      <Button>Войти</Button>
+      <Header />
     </div>
   );
 }
